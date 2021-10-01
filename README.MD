@@ -1,6 +1,6 @@
 #### Esse projeto é integrado com a API ViaCEP e consulta endereços pelo CEP 😁
 ------------
-##### 👨🏻‍💻 About the project
+##### 👨🏻‍💻 Sobre o projeto
 ###### Esse projeto é integrado com a API ViaCEP e consulta endereços pelo CEP, essa é apenas a base, você pode usar isso em seus back-ends ou aplicações especificas
 
 ------------
